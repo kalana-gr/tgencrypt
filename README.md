@@ -1,6 +1,6 @@
 # encryptedhash# Telegram Bot
 
-Telegram bot version of your encryption/conversion tool.
+Telegram bot version of encryptedhash tool.
 
 ## Features
 
@@ -34,7 +34,7 @@ $env:TELEGRAM_BOT_TOKEN="YOUR_BOT_TOKEN_HERE"
 4. Run bot:
 
 ```bash
-python "encryptedhash#.py"
+python "tgencrypt.py"
 ```
 
 ## Usage
@@ -45,5 +45,4 @@ python "encryptedhash#.py"
 
 ## Important
 
-- Do not upload `secret.key` to GitHub.
 - Keep your bot token private.
